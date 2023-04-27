@@ -1,4 +1,5 @@
-import { SafeAreaView, StatusBar, View } from 'react-native';
+import { SafeAreaView, View } from 'react-native';
+import { StatusBar } from 'expo-status-bar';
 import Cesta from './src/telas/Cesta';
 import { useFonts, Montserrat_400Regular, Montserrat_700Bold } from '@expo-google-fonts/montserrat';
 
